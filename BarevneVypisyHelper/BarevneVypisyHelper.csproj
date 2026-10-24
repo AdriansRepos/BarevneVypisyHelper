@@ -4,6 +4,14 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+
+    <PackageId>AdriansRepos.BarevneVypisyHelper</PackageId>
+  <Version>1.0.0</Version>
+  <Authors>Adrián Ferenčík</Authors>
+  <Company>AdriansRepos</Company>
+  <Description><Description>Znovupoužitelná enterprise knihovna pro barevné výpisy do konzole.</Description></Description>
+  <RepositoryUrl>https://github.com/AdriansRepos/BarevneVypisyHelper</RepositoryUrl>
+
   </PropertyGroup>
 
 </Project>
