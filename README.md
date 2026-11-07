@@ -108,7 +108,7 @@ This library is also available as a package in GitHub Packages. You can easily a
 1. Set up your GitHub as a package source (if you don't have it in NuGet.config yet).
 
 2. In the Package Manager Console, run the command:
-```bash
+```powershell
 Install-Package BarevneVypisyHelper
 ```
 
